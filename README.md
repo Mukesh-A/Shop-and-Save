@@ -1,9 +1,10 @@
 # Shop and Save
 
+- Live project https://shop-and-save.vercel.app/
 - complete project in https://github.com/Mukesh-A/React-E-commerce
 - This is a build repo on vercel
 
-## Shop and Save is a E-Commerce website with Admin Panel, Redux Toolkit, Stripe Payment.
+## Shop and Save is a E-Commerce website with Secured Stripe Payment.
 
 Features :
 
